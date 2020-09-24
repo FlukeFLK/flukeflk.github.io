@@ -4,6 +4,3 @@ my page is now empty...
       พัชรพล ภักตรชื่น
       My Nickname Is Fluke...
 ![image]285217.jpg
-
-
-      
